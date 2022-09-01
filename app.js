@@ -16,7 +16,7 @@ require("./config")(app);
 
 //deployment
 const path = require('path');
-app.use(express.static(path.join(__dirname, "/")));
+app.use(express.static(path.join(__dirname, "/client/build")));
 
 app.use((req, res) => {
   // If no routes match, send them the React HTML.
