@@ -34,6 +34,9 @@ function Map () {
 
 
 
+
+
+
     const createMap = (mapContainer) => {
         map.current = new mapboxgl.Map({
             container: mapContainer.current,
