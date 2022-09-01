@@ -1,15 +1,33 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
+import * as React from 'react'
+import ReactDOM from 'react-dom';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
+
+//DEPENDENCY
+import 'mapbox-gl/dist/mapbox-gl.css';
+import { ChakraProvider } from '@chakra-ui/react'
+
+
+//STYLE
+//import Fonts from '../src/style/fonts/Fonts'
+
+
+
+import './style/map.css'
+import './style/popups.css'
+import './style/buttons.css'
+
+
+ReactDOM.render(
   <React.StrictMode>
-    <App />
-  </React.StrictMode>
+    <ChakraProvider>
+        <App />
+    </ChakraProvider>
+  </React.StrictMode>,
+  document.getElementById('root')
 );
+
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))

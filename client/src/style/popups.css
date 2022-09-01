@@ -1,0 +1,259 @@
+.spotProfile {
+  height: 100vh;
+  width: 95vw;
+  background-color: #fff;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 25px;
+}
+
+.spotProfile > div {
+  margin-top: 5vh;
+  width: 90vw;
+}
+
+.spotProfile > .spotProfileHeader > h1 {
+  color: #e26400;
+  font-size: 75px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2.5vh;
+}
+
+.spotProfile > .colorsWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.spotProfile > h3 {
+  margin-top: 10vh;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.spotProfile > .discriptionWrapper > p {
+  text-align: center;
+  font-size: larger;
+  font-size: 20px;
+}
+
+.spotProfile > .colorsWrapper > .colorFieldsWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.spotProfile > .colorsWrapper > .colorFieldsWrapper > div {
+  height: 100px;
+  width: 300px;
+  border-radius: 100px;
+  margin-right: 50px;
+}
+
+.spotProfile > .colorsWrapper > h1 {
+  font-size: 50px;
+  margin-bottom: 5vh;
+  color: #e26400;
+  font-weight: bold;
+}
+
+.spotProfile > .colorsWrapper > div {
+  margin-bottom: 5vh;
+}
+
+.spotProfile > .picturesWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.spotProfile > .picturesWrapper > img {
+  border-radius: 25px;
+  margin-right: 5vh;
+  width: 25vw;
+  height: auto;
+}
+
+.spotProfile > #headingForPictures {
+  font-size: 50px;
+  margin-bottom: 5vh;
+  margin-top: 5vh;
+  color: #e26400;
+  font-weight: bold;
+}
+
+.spotProfile > .spotProfileHeader > div {
+  background-color: #e26400;
+  height: 50px;
+  width: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 25px;
+  float: left;
+}
+
+.spotProfile > div > div > svg {
+  margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+.addSpotPage {
+  height: 100vh;
+  width: 95vw;
+  background-color: #e26400;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 25px;
+}
+
+
+.addSpotPage > h1 {
+    margin-top: 5vh;
+  font-size: 3em;
+  color: #fff;
+  font-weight: 900
+}
+
+.addSpotPage > input[type='file']{
+    height: 5vh;
+    width: 50vw;
+}
+
+
+
+.textInputWrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.textInputWrapper > h1 {
+    font-size: 2em;
+    font-weight: 600;
+    color: #fff;
+    margin-top: 5vh;
+    margin-bottom: 2vh;
+}
+
+.textInputWrapper > input[type='text'] {
+    width: 50vw;
+    height : 40px;
+    border-radius: 20px;
+}
+
+
+
+.fileUploadWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 5vh;
+}
+
+
+.fileUploadWrapper > h1 {
+    font-size: 2em;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 5vh;
+}
+
+
+.fileUploadWrapper > button {
+    width: 25vw;
+    height: 10vh;
+    border-radius: 50px;
+    background-color: #fff;
+}
+
+.fileUploadWrapper > button > h1 {
+    font-size: 1.5em;
+    font-weight: 600;
+    color: #e26400;
+}
+
+
+
+#colorsHeading {
+    font-size: 2em;
+    font-weight: 600;
+    color: #fff;
+    margin-top: 5vh;
+}
+
+
+.colorInputFieldsWrapper {
+    width: 75vw;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #fff;
+    border-radius: 75px;
+}
+
+
+.colorInputFieldsWrapper > div {
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;
+}
+
+.colorInputFieldsWrapper > div > p {
+    text-align: center;
+    font-size: larger;
+    font-weight: 500;
+}
+
+
+.colorInputFieldsWrapper > div > input[type="color"] {
+	-webkit-appearance: none;
+	border: none;
+	width: 150px;
+	height: 50px;
+    border-radius: 100px;
+}
+
+input[type="color"]::-webkit-color-swatch-wrapper {
+	padding: 0;
+    border-radius: 100px;
+}
+input[type="color"]::-webkit-color-swatch {
+	border: none;
+    border-radius: 100px;
+}
+
+
+.addSpotButtonPage {
+    width: 50vw;
+    height : 50px;
+    background-color: green;
+    border-radius: 50px;
+    margin-bottom: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.addSpotButtonPage > h1 {
+    font-size: 2.5em;
+    color: #fff;
+    font-weight: 900;
+}
