@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f1a2225.css",
-    "main.js": "/static/js/main.3c24f20f.js",
+    "main.css": "/static/css/main.9faa072d.css",
+    "main.js": "/static/js/main.59791eb6.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/schlossparkcharlottenburg2.jpg": "/static/media/schlossparkcharlottenburg2.e09ccd2169b251f994b8.jpg",
-    "static/media/bucheleopoldstraße2.jpg": "/static/media/bucheleopoldstraße2.a3750d03cd9e6e6c7de2.jpg",
-    "static/media/schlossparkcharlottenburg1.jpg": "/static/media/schlossparkcharlottenburg1.fc81062a0748020d17f4.jpg",
+    "static/media/hackeschehöfe2.jpg": "/static/media/hackeschehöfe2.e09ccd2169b251f994b8.jpg",
+    "static/media/leopoldstraße2.jpg": "/static/media/leopoldstraße2.a3750d03cd9e6e6c7de2.jpg",
+    "static/media/hackeschehöfe1.jpg": "/static/media/hackeschehöfe1.fc81062a0748020d17f4.jpg",
     "static/media/botschafterstiege2.jpg": "/static/media/botschafterstiege2.cb0e6be11ca386b85adf.jpg",
     "static/media/botschafterstiege1.jpg": "/static/media/botschafterstiege1.50fb3cb9bd8eadcce7ea.jpg",
     "static/media/logo.png": "/static/media/logo.89b89b0618cf437c4551.png",
-    "static/media/bucheleopoldstraße1.jpg": "/static/media/bucheleopoldstraße1.557ce0fa01f50e475fc7.jpg",
+    "static/media/leopoldstraße1.jpg": "/static/media/leopoldstraße1.557ce0fa01f50e475fc7.jpg",
+    "static/media/homepage2.jpg": "/static/media/homepage2.a3a4fc71478b5196fa57.jpg",
+    "static/media/homepage3.jpg": "/static/media/homepage3.e54e89626a6b5e49c61b.jpg",
     "static/media/homepage1.jpg": "/static/media/homepage1.309b610b2e79232bf1b4.jpg",
     "index.html": "/index.html",
-    "main.7f1a2225.css.map": "/static/css/main.7f1a2225.css.map",
-    "main.3c24f20f.js.map": "/static/js/main.3c24f20f.js.map",
+    "main.9faa072d.css.map": "/static/css/main.9faa072d.css.map",
+    "main.59791eb6.js.map": "/static/js/main.59791eb6.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f1a2225.css",
-    "static/js/main.3c24f20f.js"
+    "static/css/main.9faa072d.css",
+    "static/js/main.59791eb6.js"
   ]
 }

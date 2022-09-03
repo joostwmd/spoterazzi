@@ -4,12 +4,10 @@ export const spotsData = [
         'type': 'feature',
 
         'properties': {
-            'name': 'Schlosspark Charlottenburg',
-            'discription': 'ist halt n schlosspark, outdoor',
+            'name': 'Hackesche Höfe',
+            'discription': 'the location is hidden inside the hackeschen höfe - in spring you can see a cherry tree in the courtyard as you can see on the photo',
             'colors': ['#6CAE75', '#D7AF70', '#38618C'],
-            'spotter': '@monaruuc',
-            'lighting': 'natural light',
-            'pictures' : 2
+            'spotter': '@username',
         },
 
         'geometry': {
@@ -22,12 +20,10 @@ export const spotsData = [
         'type': 'feature',
 
         'properties': {
-            'name': 'Buche Leopoldstraße',
-            'discription': 'ne bank vor nem wohnhaus, im herbst/winter mit schönen leuchten behangen',
+            'name': 'Leopoldstraße',
+            'discription': 'the location is at the corner of Leopoldstraße and Friedbergstraße - at Christmas time the whole Leopoldstraße is decorated - just like the beech tree you can see on the photos',
             'colors': ['#D3BDB0', '#9F8082', '#B80C09'],
-            'spotter': '@monaruuc',
-            'lighting': 'natural light',
-            'pictures' : 2
+            'spotter': '@username',
         },
 
         'geometry': {
@@ -41,11 +37,9 @@ export const spotsData = [
 
         'properties': {
             'name': 'Botschafter Stiege',
-            'discription': 'some stiege',
+            'discription': 'the location is at a beautiful old building. you can take good photos with a symmetrical background here',
             'colors': ['#6F4422', '#C4AE7D', '#9F8F75'],
-            'spotter': '@monaruuc',
-            'lighting': 'natural light',
-            'pictures' : 2
+            'spotter': '@username',
         },
 
         'geometry': {
@@ -60,12 +54,10 @@ export const spotsData = [
         'type': 'feature',
 
         'properties': {
-            'name': 'Schlosspark Charlottenburg',
-            'discription': 'ist halt n schlosspark, outdoor',
+            'name': 'Hackesche Höfe',
+            'discription': 'the location is hidden inside the hackeschen höfe - in spring you can see a cherry tree in the courtyard as you can see on the photo',
             'colors': ['#6CAE75', '#D7AF70', '#38618C'],
-            'spotter': '@monaruuc',
-            'lighting': 'natural light',
-            'pictures' : 2
+            'spotter': '@username',
         },
 
         'geometry': {
@@ -78,12 +70,10 @@ export const spotsData = [
         'type': 'feature',
 
         'properties': {
-            'name': 'Buche Leopoldstraße',
-            'discription': 'ne bank vor nem wohnhaus, im herbst/winter mit schönen leuchten behangen',
+            'name': 'Leopoldstraße',
+            'discription': 'the location is at the corner of Leopoldstraße and Friedbergstraße - at Christmas time the whole Leopoldstraße is decorated - just like the beech tree you can see on the photos',
             'colors': ['#D3BDB0', '#9F8082', '#B80C09'],
-            'spotter': '@monaruuc',
-            'lighting': 'natural light',
-            'pictures' : 2
+            'spotter': '@username',
         },
 
         'geometry': {
@@ -97,11 +87,9 @@ export const spotsData = [
 
         'properties': {
             'name': 'Botschafter Stiege',
-            'discription': 'some stiege',
+            'discription': 'the location is at a beautiful old building. you can take good photos with a symmetrical background here',
             'colors': ['#6F4422', '#C4AE7D', '#9F8F75'],
-            'spotter': '@monaruuc',
-            'lighting': 'natural light',
-            'pictures' : 2
+            'spotter': '@username',
         },
 
         'geometry': {
@@ -116,12 +104,10 @@ export const spotsData = [
         'type': 'feature',
 
         'properties': {
-            'name': 'Schlosspark Charlottenburg',
-            'discription': 'ist halt n schlosspark, outdoor',
+            'name': 'Hackesche Höfe',
+            'discription': 'the location is hidden inside the hackeschen höfe - in spring you can see a cherry tree in the courtyard as you can see on the photo',
             'colors': ['#6CAE75', '#D7AF70', '#38618C'],
-            'spotter': '@monaruuc',
-            'lighting': 'natural light',
-            'pictures' : 2
+            'spotter': '@username',
         },
 
         'geometry': {
@@ -134,12 +120,10 @@ export const spotsData = [
         'type': 'feature',
 
         'properties': {
-            'name': 'Buche Leopoldstraße',
-            'discription': 'ne bank vor nem wohnhaus, im herbst/winter mit schönen leuchten behangen',
+            'name': 'Leopoldstraße',
+            'discription': 'the location is at the corner of Leopoldstraße and Friedbergstraße - at Christmas time the whole Leopoldstraße is decorated - just like the beech tree you can see on the photos',
             'colors': ['#D3BDB0', '#9F8082', '#B80C09'],
-            'spotter': '@monaruuc',
-            'lighting': 'natural light',
-            'pictures' : 2
+            'spotter': '@username',
         },
 
         'geometry': {
@@ -153,11 +137,9 @@ export const spotsData = [
 
         'properties': {
             'name': 'Botschafter Stiege',
-            'discription': 'some stiege',
+            'discription': 'the location is at a beautiful old building. you can take good photos with a symmetrical background here',
             'colors': ['#6F4422', '#C4AE7D', '#9F8F75'],
-            'spotter': '@monaruuc',
-            'lighting': 'natural light',
-            'pictures' : 2
+            'spotter': '@username',
         },
 
         'geometry': {
@@ -172,12 +154,10 @@ export const spotsData = [
         'type': 'feature',
 
         'properties': {
-            'name': 'Schlosspark Charlottenburg',
-            'discription': 'ist halt n schlosspark, outdoor',
+            'name': 'Hackesche Höfe',
+            'discription': 'the location is hidden inside the hackeschen höfe - in spring you can see a cherry tree in the courtyard as you can see on the photo',
             'colors': ['#6CAE75', '#D7AF70', '#38618C'],
-            'spotter': '@monaruuc',
-            'lighting': 'natural light',
-            'pictures' : 2
+            'spotter': '@username',
         },
 
         'geometry': {
@@ -190,12 +170,10 @@ export const spotsData = [
         'type': 'feature',
 
         'properties': {
-            'name': 'Buche Leopoldstraße',
-            'discription': 'ne bank vor nem wohnhaus, im herbst/winter mit schönen leuchten behangen',
+            'name': 'Leopoldstraße',
+            'discription': 'the location is at the corner of Leopoldstraße and Friedbergstraße - at Christmas time the whole Leopoldstraße is decorated - just like the beech tree you can see on the photos',
             'colors': ['#D3BDB0', '#9F8082', '#B80C09'],
-            'spotter': '@monaruuc',
-            'lighting': 'natural light',
-            'pictures' : 2
+            'spotter': '@username',
         },
 
         'geometry': {
@@ -209,11 +187,9 @@ export const spotsData = [
 
         'properties': {
             'name': 'Botschafter Stiege',
-            'discription': 'some stiege',
+            'discription': 'the location is at a beautiful old building. you can take good photos with a symmetrical background here',
             'colors': ['#6F4422', '#C4AE7D', '#9F8F75'],
-            'spotter': '@monaruuc',
-            'lighting': 'natural light',
-            'pictures' : 2
+            'spotter': '@username',
         },
 
         'geometry': {
@@ -228,12 +204,10 @@ export const spotsData = [
         'type': 'feature',
 
         'properties': {
-            'name': 'Schlosspark Charlottenburg',
-            'discription': 'ist halt n schlosspark, outdoor',
+            'name': 'Hackesche Höfe',
+            'discription': 'the location is hidden inside the hackeschen höfe - in spring you can see a cherry tree in the courtyard as you can see on the photo',
             'colors': ['#6CAE75', '#D7AF70', '#38618C'],
-            'spotter': '@monaruuc',
-            'lighting': 'natural light',
-            'pictures' : 2
+            'spotter': '@username',
         },
 
         'geometry': {
@@ -246,12 +220,10 @@ export const spotsData = [
         'type': 'feature',
 
         'properties': {
-            'name': 'Buche Leopoldstraße',
-            'discription': 'ne bank vor nem wohnhaus, im herbst/winter mit schönen leuchten behangen',
+            'name': 'Leopoldstraße',
+            'discription': 'the location is at the corner of Leopoldstraße and Friedbergstraße - at Christmas time the whole Leopoldstraße is decorated - just like the beech tree you can see on the photos',
             'colors': ['#D3BDB0', '#9F8082', '#B80C09'],
-            'spotter': '@monaruuc',
-            'lighting': 'natural light',
-            'pictures' : 2
+            'spotter': '@username',
         },
 
         'geometry': {
@@ -265,11 +237,9 @@ export const spotsData = [
 
         'properties': {
             'name': 'Botschafter Stiege',
-            'discription': 'some stiege',
+            'discription': 'the location is at a beautiful old building. you can take good photos with a symmetrical background here',
             'colors': ['#6F4422', '#C4AE7D', '#9F8F75'],
-            'spotter': '@monaruuc',
-            'lighting': 'natural light',
-            'pictures' : 2
+            'spotter': '@username',
         },
 
         'geometry': {

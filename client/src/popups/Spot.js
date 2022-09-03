@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react'
-import { Button, Center, Flex, Heading } from '@chakra-ui/react'
 import { closeSpotProfilePopup } from '../mapboxApi/spot'
 
 function Spot({ currentMap, popup, data }) {
@@ -8,7 +7,7 @@ function Spot({ currentMap, popup, data }) {
     const [pictureStrings, setPictureStrings] = useState(undefined)
     useEffect(() => {
         const arr = []
-        for (let i = 1; i <= data.properties.pictures; i++) {
+        for (let i = 1; i <= 2; i++) {
             arr.push(data.properties.name.replaceAll(' ', '').toLowerCase() + `${i}.jpg`)
         }
         setPictureStrings(arr)
@@ -32,7 +31,6 @@ function Spot({ currentMap, popup, data }) {
 
                         <div className='discriptionWrapper'>
                             <p>{data.properties.discription}</p>
-                            <p>{data.properties.lighting}</p>
                         </div>
 
 
@@ -51,15 +49,12 @@ function Spot({ currentMap, popup, data }) {
                         <div className='picturesWrapper'>
                             {pictureStrings.map(string => {
                                 return (
-                                    //<div style={{ backgroundImage: `../assets/pictures/${string}.jpg` }} />
                                     <img alt='' src={require(`../assets/pictures/${string}`)} />
-
-                                    ///Users/joostwindmoller/Desktop/spoterrazi/demo/src/assets/pictures/bucheleopoldstraße1.jpg
                                 )
                             })}
                         </div>
 
-                        <h3>contact the spotter on instagram for more questions : {data.properties.spotter}</h3>
+                        <h3>contact the spotter on instagram for more questions :</h3><h2 style={{color : '#e26400', fontWeight : '700', fontSize : '35px', marginTop : '2.5vh'}}>{data.properties.spotter}</h2>
 
 
 
