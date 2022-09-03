@@ -65,12 +65,6 @@ function AddSpot({ currentMap, popup }) {
                         <input id='spotDiscriptionInput' name='textInput' type='text' />
                     </div>
 
-                    <div className='textInputWrapper' onClick={() => { focusOnInput('lightingInput') }}>
-                        <h1>discribe lighting</h1>
-                        <input id='lightingInput' name='textInput' type='text' />
-                    </div>
-
-
                     <div className='textInputWrapper' onClick={() => { focusOnInput('instaNameInput') }}>
                         <h1>add your instagram for additional inforamtion</h1>
                         <input id='instaNameInput' name='textInput' type='text' />

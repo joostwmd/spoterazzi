@@ -1,6 +1,7 @@
 export const getCenterCoordinates = (currentMap) => {
     let lng = currentMap.getCenter().lng
     let lat = currentMap.getCenter().lat
+    console.log(lng, lat)
     return [lng, lat]
 }
 

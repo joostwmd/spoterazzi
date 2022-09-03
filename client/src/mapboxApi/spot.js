@@ -7,7 +7,6 @@ import ReactDOM from 'react-dom';
 import mapboxgl from "mapbox-gl";
 //import { showAllMarkers } from "./spotMarkerLayer";
 import { hideAllMarkers, popup } from "./visual";
-import { centerDraggalbeMarker } from "./buttons";
 import {
     hideDragMarker,
     showDragMarker,
@@ -19,13 +18,11 @@ import {
     showAddSpotButton,
 
 } from "./visual";
-
 import Spot from "../popups/Spot";
 
 
 
 export const pickLocationHandler = (currentMap) => {
-    centerDraggalbeMarker(currentMap)
     showDragMarker()
     showExplanationField()
     showConfirmLocationButton()

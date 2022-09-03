@@ -70,9 +70,4 @@ export const createDraggalbeMarker = (currentMap, coords) => {
     return marker
 }
 
-export const centerDraggalbeMarker = (currentMap) => {
-    new mapboxgl.Marker(document.getElementsByClassName('dragMarker')[0])
-        .setLngLat(getCenterCoordinates(currentMap))
-        .addTo(currentMap);
-}
 

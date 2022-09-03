@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9faa072d.css",
-    "main.js": "/static/js/main.59791eb6.js",
+    "main.js": "/static/js/main.b81a2f12.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/hackeschehöfe2.jpg": "/static/media/hackeschehöfe2.e09ccd2169b251f994b8.jpg",
     "static/media/leopoldstraße2.jpg": "/static/media/leopoldstraße2.a3750d03cd9e6e6c7de2.jpg",
@@ -15,11 +15,11 @@
     "static/media/homepage1.jpg": "/static/media/homepage1.309b610b2e79232bf1b4.jpg",
     "index.html": "/index.html",
     "main.9faa072d.css.map": "/static/css/main.9faa072d.css.map",
-    "main.59791eb6.js.map": "/static/js/main.59791eb6.js.map",
+    "main.b81a2f12.js.map": "/static/js/main.b81a2f12.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9faa072d.css",
-    "static/js/main.59791eb6.js"
+    "static/js/main.b81a2f12.js"
   ]
 }

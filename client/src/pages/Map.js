@@ -26,7 +26,7 @@ function Map () {
     const mapContainer = useRef(null);
     const map = useRef(null);
 
-    const center = [10.172946185256103, 50.70767729701806]
+    const center = [13.5, 52.5]
     const bounds = [
         [12.25, 51.75],
         [14.75, 53.25]
