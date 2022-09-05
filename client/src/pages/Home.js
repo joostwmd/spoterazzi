@@ -6,17 +6,14 @@ import homepage1 from '../assets/pictures/homepage1.jpg'
 import homepage2 from '../assets/pictures/homepage2.jpg'
 import homepage3 from '../assets/pictures/homepage3.jpg'
 import homepage4 from '../assets/pictures/homepage4.jpg'
-import homepage5 from '../assets/pictures/homepage5.jpg'
-import homepage6 from '../assets/pictures/homepage6.jpg'
-import homepage7 from '../assets/pictures/homepage7.jpg'
 
 function Home() {
 
-    const pictures = [homepage1, homepage2, homepage3, homepage4, homepage5, homepage6, homepage7]
+    const pictures = [homepage1, homepage2, homepage3, homepage4]
     
     setInterval(function(){
-        document.getElementById('homepagePictures').setAttribute("src", pictures[Math.floor(Math.random() * 7)]);
-    }, 2000)
+        document.getElementById('homepagePictures').setAttribute("src", pictures[Math.floor(Math.random() * 4)]);
+    }, 4200)
 
     return (
         <div>
@@ -28,8 +25,8 @@ function Home() {
             >
 
                 <Image
-                    w='150px'
-                    h='200px'
+                    w='21vw'
+                    h='28vw'
                     src={logo}
                     alt='logo'
                     mr='10vw'

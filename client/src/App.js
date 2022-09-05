@@ -8,9 +8,9 @@ import Map from './pages/Map'
 
 //URLS
 //for development
-export const CLIENT_URL = 'http://localhost:3000/'
+//export const CLIENT_URL = 'http://localhost:3000/'
 //for deployment
-//export const CLIENT_URL = 'https://spoterrazi.herokuapp.com/'
+export const CLIENT_URL = 'https://spoterrazi.herokuapp.com/'
 
 function App() {
 
