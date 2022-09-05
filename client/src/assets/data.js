@@ -6,7 +6,7 @@ export const spotsData = [
         'properties': {
             'name': 'Hackesche Höfe',
             'discription': 'the location is hidden inside the hackeschen höfe - in spring you can see a cherry tree in the courtyard as you can see on the photo',
-            'colors': ['#6CAE75', '#D7AF70', '#38618C'],
+            'colors': ['#768785', '#988D7B', '#C9719B'],
             'spotter': '@username',
         },
 
@@ -56,7 +56,7 @@ export const spotsData = [
         'properties': {
             'name': 'Hackesche Höfe',
             'discription': 'the location is hidden inside the hackeschen höfe - in spring you can see a cherry tree in the courtyard as you can see on the photo',
-            'colors': ['#6CAE75', '#D7AF70', '#38618C'],
+            'colors': ['#768785', '#988D7B', '#C9719B'],
             'spotter': '@username',
         },
 
@@ -106,7 +106,7 @@ export const spotsData = [
         'properties': {
             'name': 'Hackesche Höfe',
             'discription': 'the location is hidden inside the hackeschen höfe - in spring you can see a cherry tree in the courtyard as you can see on the photo',
-            'colors': ['#6CAE75', '#D7AF70', '#38618C'],
+            'colors': ['#768785', '#988D7B', '#C9719B'],
             'spotter': '@username',
         },
 
@@ -156,7 +156,7 @@ export const spotsData = [
         'properties': {
             'name': 'Hackesche Höfe',
             'discription': 'the location is hidden inside the hackeschen höfe - in spring you can see a cherry tree in the courtyard as you can see on the photo',
-            'colors': ['#6CAE75', '#D7AF70', '#38618C'],
+            'colors': ['#768785', '#988D7B', '#C9719B'],
             'spotter': '@username',
         },
 
@@ -206,7 +206,7 @@ export const spotsData = [
         'properties': {
             'name': 'Hackesche Höfe',
             'discription': 'the location is hidden inside the hackeschen höfe - in spring you can see a cherry tree in the courtyard as you can see on the photo',
-            'colors': ['#6CAE75', '#D7AF70', '#38618C'],
+            'colors': ['#768785', '#988D7B', '#C9719B'],
             'spotter': '@username',
         },
 
