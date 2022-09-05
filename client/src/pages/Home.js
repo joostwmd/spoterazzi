@@ -43,7 +43,7 @@ function Home() {
                         color='#fff'
                         textAlign='center'
                     >
-                        spoterrazi
+                        spoterazzi
                     </Heading>
 
                     <Text

@@ -10,7 +10,7 @@ import Map from './pages/Map'
 //for development
 //export const CLIENT_URL = 'http://localhost:3000/'
 //for deployment
-export const CLIENT_URL = 'https://spoterrazi.herokuapp.com/'
+export const CLIENT_URL = 'https://spoterazzi.herokuapp.com/'
 
 function App() {
 
